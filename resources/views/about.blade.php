@@ -23,48 +23,65 @@
             <div class="row">
                 <div class="col-md-6 col-sm-8 col-xs-12 about-colmun">
                     <div class="about-content">
-                        <div class="img-box wow slideInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: slideInLeft;">
+                        <div class="img-box wow slideInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms"
+                            style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: slideInLeft;">
                             <figure><img src="assets/images/about/1.jpg" alt=""></figure>
                         </div>
                         <div class="lower-content">
-                            <h3>State-of-the-Art <br>
-                            Dental Clinic Services</h3>
-                            <div class="text"><p>Lorem ipsum dolor sit amet consectetur adipisicin elit sed eiusmod tempor incididunt
-                            labore et dolore magna aliqua enim ad minim veniams quis nostrud exercitation uamc
-                            aspums nisi ut aliquip ex ea commodo consequat ipsum.</p></div>
+                            <h3>About {{ env('APP_NAME') }} </h3>
+                            <div class="text">
+                                <p>
+                                    Welcome to {{ env('APP_NAME') }}, where your oral health and comfort are our top
+                                    priorities.
+                                    Established with a passion for delivering exceptional dental care, our clinic is
+                                    dedicated to providing a positive and personalized experience for every patient.
+                                </p>
+                            </div>
                         </div>
                         <div class="author-info">
-                            <div class="signature"><figure><img src="images/about/signature.png" alt=""></figure></div>
+                            <div class="signature">
+                                <figure><img src="images/about/signature.png" alt=""></figure>
+                            </div>
                             <span>Head Doctor</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8 col-xs-12 about-colmun">
+
                     <div class="service-area">
+                        <div class="" style="margin-bottom: 10px !important">
+                            <h5 class="h5" ><a href="javasript:;" style="font-size: 20px !important" >Our Mission</a></h5>
+                            <div class="text">
+                                <p>At {{ env('APP_NAME') }}, our mission is to enhance the overall well-being of our
+                                    patients by
+                                    delivering high-quality, comprehensive dental care. We are committed to:</p>
+                            </div>
+                        </div>
                         <div class="single-item">
                             <div class="icon-box"><i class="flaticon-medical-7"></i></div>
-                            <h5><a href="service-details.html">Excellence in Dental Care</a></h5>
-                            <div class="text"><p>Abore et dolore magna aliqua enim ad minim veniams quis nost
-                            exercitation ullamco aspums nisi ut aliquip.</p></div>
+                            <h5><a href="javasript:;">Excellence in Dental Care</a></h5>
+                            <div class="text">
+                                <p>Striving for excellence in every aspect of our practice, from diagnostics to treatment
+                                    and patient care.</p>
+                            </div>
                         </div>
                         <div class="single-item">
                             <div class="icon-box"><i class="flaticon-transport"></i></div>
-                            <h5><a href="service-details.html">Caring Surroundings for Patients</a></h5>
-                            <div class="text"><p>Abore et dolore magna aliqua enim ad minim veniams quis nost
-                            exercitation ullamco aspums nisi ut aliquip.</p></div>
+                            <h5><a href="javasript:;">Caring Surroundings for Patients</a></h5>
+                            <div class="text">
+                                <p>Ensuring a compassionate and understanding environment for our patients, where individual
+                                    needs are recognized and addressed.</p>
+                            </div>
                         </div>
                         <div class="single-item">
                             <div class="icon-box"><i class="flaticon-medical-5"></i></div>
-                            <h5><a href="service-details.html">In-Depth Consultations</a></h5>
-                            <div class="text"><p>Abore et dolore magna aliqua enim ad minim veniams quis nost
-                            exercitation ullamco aspums nisi ut aliquip.</p></div>
+                            <h5><a href="javasript:;">In-Depth Innovation</a></h5>
+                            <div class="text">
+                                <p>Embracing the latest advancements in dental technology and treatment methodologies to
+                                    provide cutting-edge solutions.</p>
+                            </div>
                         </div>
-                        <div class="single-item">
-                            <div class="icon-box"><i class="flaticon-business"></i></div>
-                            <h5><a href="service-details.html">Flexible Payment Options</a></h5>
-                            <div class="text"><p>Abore et dolore magna aliqua enim ad minim veniams quis nost
-                            exercitation ullamco aspums nisi ut aliquip.</p></div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -80,7 +97,7 @@
                         <h2>We Offers Care, Attention &
                             Treatment You Deserve</h2>
                         <div class="text">
-                            <p class="mb-0" >
+                            <p class="mb-0">
                                 Our commitment goes beyond dentistry – we provide care, attention,
                                 and treatment that you truly deserve
                                 <br>
@@ -134,10 +151,14 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 news-achievements">
                     <div class="achievements-content">
-                        <div class="section-title left"><h2>Achievements</h2></div>
-                        <div class="text"><p>Dolor sit amet consectetur adipisicing elit sed eiusmod tempor labore et dolore
-                        magna aliqua enim minim veniams quis nostrud exercitation nisi ut aliquip ex ea
-                        commodo magna alique consequat ipsum commodo.</p></div>
+                        <div class="section-title left">
+                            <h2>Achievements</h2>
+                        </div>
+                        <div class="text">
+                            <p>we take pride in our commitment to excellence and continuous improvement. Our achievements
+                                reflect our dedication to providing the highest quality dental care to our valued patients.
+                                Here are some of our notable accomplishments</p>
+                        </div>
                         <div class="award-area centered">
                             <div class="single-item">
                                 <figure><img src="assets/images/about/award1.png" alt=""></figure>

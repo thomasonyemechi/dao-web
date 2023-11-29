@@ -37,63 +37,6 @@
         </div>
     </section>
 
-    <section class="intro-section centered sec-pad">
-        <div class="container">
-            <div class="intro-title">
-                <div class="section-title">
-                    <h2>Our team is dedicated to provide you<br />
-                        with the best <span>Dental Services</span></h2>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12 intro-colmun">
-                    <div class="single-item">
-                        <div class="icon-box">
-                            <i class="flaticon-pair-of-molars"></i>
-                        </div>
-                        <div class="single-content">
-                            <h5><a href="javasript:;">Affordable Services</a></h5>
-                            <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim
-                                    sed ad minim veniam nostrud.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 intro-colmun">
-                    <div class="single-item">
-                        <div class="icon-box">
-                            <i class="flaticon-medical"></i>
-                        </div>
-                        <div class="single-content">
-                            <h5><a href="javasript:;">25+ Years Experience</a></h5>
-                            <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim
-                                    sed ad minim veniam nostrud.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12 intro-colmun">
-                    <div class="single-item">
-                        <div class="icon-box">
-                            <i class="flaticon-credit-card"></i>
-                        </div>
-                        <div class="single-content">
-                            <h5><a href="javasript:;">Flexible Payments</a></h5>
-                            <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim
-                                    sed ad minim veniam nostrud.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="appointment-section" style="background-image: url(images/home/appointment-bg.jpg);">
         <div class="container">
@@ -104,7 +47,7 @@
                         <h2>We Offers Care, Attention &
                             Treatment You Deserve</h2>
                         <div class="text">
-                            <p class="mb-0" >
+                            <p class="mb-0">
                                 Our commitment goes beyond dentistry – we provide care, attention,
                                 and treatment that you truly deserve
                                 <br>
@@ -227,166 +170,28 @@
         </div>
     </section>
 
-    <section class="feature-section sec-pad" style="background-image: url(images/home/feature-bg.jpg);">
-        <div class="container">
-            <div class="feature-title centered">
-                <div class="section-title uppercase">
-                    <h2>Featured <span>cases</span></h2>
-                </div>
-                <p>Dolor sit am consectetur adipisicing elit eiusmod tempor cididunt laboret mag dolore magna aliquat<br />
-                    enim sed ad minim veniam nostrud eiusmod tempor incididunt ut labore.</p>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-8 col-xs-12 feature-colmun">
-                    <div class="img-box wow slideInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <figure><img src="assets/images/home/feature.png" alt=""></figure>
-                    </div>
-                </div>
-                <div class="col-md-6 col-sm-8 col-xs-12 feature-colmun">
-                    <div class="feature-content">
-                        <div class="title">Dental Veneer Treatment</div>
-                        <div class="text">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-                                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                laboris nisi ut aliquip ex ea commodo.</p>
-                        </div>
-                        <ul class="list">
-                            <li><i class="flaticon-tooth"></i> Dolore eu fugiat nulla pariatur excepteur</li>
-                            <li><i class="flaticon-tooth"></i> Laborum sed ut perspiciatis unde omnis nat</li>
-                            <li><i class="flaticon-tooth"></i> Adipisicing elit eiusmod tempor incididunt</li>
-                        </ul>
-                        <div class="button">
-                            <a href="#" class="btn-one style-one">view service</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="team-section sec-pad">
-        <div class="container">
-            <div class="team-title centered">
-                <div class="section-title uppercase">
-                    <h2>dedicated <span>team</span></h2>
-                </div>
-                <p>Dolor sit am consectetur adipisicing elit eiusmod tempor cididunt laboret mag dolore magna aliquat<br />
-                    enim sed ad minim veniam nostrud eiusmod tempor incididunt ut labore.</p>
-            </div>
-            <div class="row">
-                <div class="col-md-3 col-sm-6 col-xs-12 team-colmun">
-                    <div class="single-item">
-                        <div class="img-box">
-                            <a href="doctors.html">
-                                <figure><img src="images/team/1.jpg" alt=""></figure>
-                            </a>
-                            <ul class="list centered">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h5><a href="doctors.html">dr. Mark Zerberg</a></h5>
-                            <span>Head Doctor</span>
-                            <div class="text">
-                                <p>Consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 team-colmun">
-                    <div class="single-item">
-                        <div class="img-box">
-                            <a href="doctors.html">
-                                <figure><img src="images/team/2.jpg" alt=""></figure>
-                            </a>
-                            <ul class="list centered">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h5><a href="doctors.html">dr. charles kins</a></h5>
-                            <span>Dental Care</span>
-                            <div class="text">
-                                <p>Consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 team-colmun">
-                    <div class="single-item">
-                        <div class="img-box">
-                            <a href="doctors.html">
-                                <figure><img src="images/team/3.jpg" alt=""></figure>
-                            </a>
-                            <ul class="list centered">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h5><a href="doctors.html">dr. sophia lauren</a></h5>
-                            <span>Tooth Surgeon</span>
-                            <div class="text">
-                                <p>Consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6 col-xs-12 team-colmun">
-                    <div class="single-item">
-                        <div class="img-box">
-                            <a href="doctors.html">
-                                <figure><img src="images/team/4.jpg" alt=""></figure>
-                            </a>
-                            <ul class="list centered">
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h5><a href="doctors.html">dr. John michael</a></h5>
-                            <span>X-Ray Specialist</span>
-                            <div class="text">
-                                <p>Consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="catagories-section" style="background-image: url(images/home/1.jpg);">
+    <section class="catagories-section" style="background-image: url(assets/images/home/1.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-12 col-xs-12 catagories-colmun">
                     <div class="left-colmun text-right">
                         <div class="single-item">
-                            <div class="title">Convenient Consultations</div>
+                            <div class="title">Experienced and Caring Team</div>
                             <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim</p>
+                                <p>
+                                    Our team of skilled dentists, hygienists, and support staff is dedicated to providing
+                                    compassionate care with a focus on your individual needs
+                                </p>
                             </div>
                         </div>
                         <div class="single-item">
-                            <div class="title">Always Focus on Patients</div>
+                            <div class="title">Patient-Centric Approach</div>
                             <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim</p>
+                                <p>
+                                    Your comfort and well-being are our top priorities. We take the time to listen, answer
+                                    your questions, and tailor our services to meet your unique requirements
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -394,24 +199,24 @@
                 <div class="col-md-6 col-sm-12 col-xs-12 catagories-colmun">
                     <div class="img-holder wow zoomIn animated">
                         <div class="img-box centered">
-                            <figure><img src="images/home/3.png" alt=""></figure>
+                            <figure><img src="assets/images/home/3.png" alt=""></figure>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-12 col-xs-12 catagories-colmun">
                     <div class="right-colmun">
                         <div class="single-item">
-                            <div class="title">Free Dental Exam & X-Rays</div>
+                            <div class="title"> Personalized Treatment Plans</div>
                             <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim</p>
+                                <p>Our approach involves creating personalized treatment plans tailored to your specific
+                                    goals and concerns, ensuring the best possible outcomes for your oral health.</p>
                             </div>
                         </div>
                         <div class="single-item">
-                            <div class="title">Your Smile, Our Passion</div>
+                            <div class="title">State-of-the-Art Facility</div>
                             <div class="text">
-                                <p>Dolor sit am consectetur adipisicing elit eiusmod
-                                    tempor cididunt laboret mag dolore magna aliquat enim</p>
+                                <p>Our clinic is equipped with cutting-edge technology to provide accurate diagnoses and
+                                    effective treatments</p>
                             </div>
                         </div>
                     </div>
@@ -426,51 +231,39 @@
                 <div class="section-title uppercase">
                     <h2>what <span>patient saying</span></h2>
                 </div>
-                <p>Dolor sit am consectetur adipisicing elit eiusmod tempor cididunt laboret mag dolore magna aliquat<br />
-                    enim sed ad minim veniam nostrud eiusmod tempor incididunt ut labore.</p>
+                <p>Discover what our valued patients have to say about their experiences at {{ env('APP_NAME') }} </p>
             </div>
             <div class="three-column-carousel">
                 <div class="single-item">
-                    <div class="text">Dolor sitam consectetur sed adipisicing
-                        eiusmod tempor cididunt laboret mag
-                        magn aliquat enim sed minim veniam
-                        nostrud lorem ipsum dolor.</div>
+                    <div class="text">
+                        Best dental clinic ever, they're staffs are very friendly, jovial and well trained, they always give
+                        the best - My teeth have never felt better, i am grateful for the care
+                    </div>
                     <div class="author-info">
-                        <div class="author-img">
-                            <figure><img src="images/testimonial/1.png" alt=""></figure>
-                        </div>
                         <div class="author-thumb">
-                            <h5>Adrian Faith</h5>
+                            <h5>Johnson Folashade</h5>
                             <span>Patient</span>
                         </div>
                     </div>
                 </div>
                 <div class="single-item">
-                    <div class="text">Dolor sitam consectetur sed adipisicing
-                        eiusmod tempor cididunt laboret mag
-                        magn aliquat enim sed minim veniam
-                        nostrud lorem ipsum dolor.</div>
+                    <div class="text"> The staff was incredibly professional and friendly, making me feel comfortable
+                        from the moment I walked in. The dentist’s expertise was evident.</div>
                     <div class="author-info">
-                        <div class="author-img">
-                            <figure><img src="images/testimonial/2.png" alt=""></figure>
-                        </div>
                         <div class="author-thumb">
-                            <h5>Emma Olivia</h5>
+                            <h5>olayinka sururah</h5>
                             <span>Patient</span>
                         </div>
                     </div>
                 </div>
                 <div class="single-item">
-                    <div class="text">Dolor sitam consectetur sed adipisicing
-                        eiusmod tempor cididunt laboret mag
-                        magn aliquat enim sed minim veniam
-                        nostrud lorem ipsum dolor.</div>
+                    <div class="text">
+                        Well competent doctor and their staffs are well trained, DAO DENTAL CLINIC is a place where their
+                        equipment are neat and services are very affordable, best place ever
+                    </div>
                     <div class="author-info">
-                        <div class="author-img">
-                            <figure><img src="images/testimonial/3.png" alt=""></figure>
-                        </div>
                         <div class="author-thumb">
-                            <h5>Scott Irvine</h5>
+                            <h5>Debby Matt</h5>
                             <span>Patient</span>
                         </div>
                     </div>
@@ -548,7 +341,7 @@
         </div>
     </section>
 
-    <section class="call-section" style="background-image: url(images/home/call-bg.jpg);">
+    <section class="call-section" style="background-image: url(assets/images/home/call-bg.jpg);">
         <div class="container">
             <div class="row">
                 <div class="col-md-8 col-sm-12 col-xs-12 call-calmun">
@@ -562,7 +355,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12 call-calmun">
                     <div class="call-us centered">
-                        <div class="text"><a href="/appointment">schedure a same day appointment</a></div>
+                        <div class="text"><a href="#">schedure a same day appointment</a></div>
                         <h5><a href="tel:{{ env('PHONE_2') }}">Call us: {{ env('PHONE_2') }}</a></h5>
                     </div>
                 </div>

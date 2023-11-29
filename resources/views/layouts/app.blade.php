@@ -5,6 +5,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Bitech">
+    <meta name="keywords" content="dental, dao, dental clinic, clinic, dao dental clinic, akure, ondo,  ">
+
+    <meta name="description"
+        content="Welcome to Dao Dental Clinic, where your oral health and comfort are our top priorities. Established with a passion for delivering exceptional dental care, our clinic is dedicated to providing a positive and personalized experience for every patient">
+
 
     <title>{{ env('APP_NAME') }} | @yield('page_title') </title>
 
