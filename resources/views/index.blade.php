@@ -44,7 +44,7 @@
                 <div class="col-md-6 col-sm-12 col-xs-12 appointment-colmun">
                     <div class="appointment-content">
                         <div class="title">Request An Appointment</div>
-                        <h2>We Offers Care, Attention &
+                        <h2>We Offer Care, Attention &
                             Treatment You Deserve</h2>
                         <div class="text">
                             <p class="mb-0">
@@ -55,7 +55,7 @@
                                 reflects the quality of our commitment. Welcome to a dental experience where you are truly
                                 valued.
                             </p>
-                            <h3>Call us: {{ env('PHONE_1') }} </h3>
+                            <h3>Call us: {{ env('PHONE_1') }}, {{ env('PHONE_2') }} </h3>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                 <div class="col-md-4 col-sm-12 col-xs-12">
                     <div class="offers-content">
                         <div class="section-title left">
-                            <h2>Services <span>We Offers</span></h2>
+                            <h2>Services <span>We Offer</span></h2>
                         </div>
                         <div class="text">
                             <p>
@@ -229,7 +229,7 @@
         <div class="container">
             <div class="testimonials-title centered">
                 <div class="section-title uppercase">
-                    <h2>what <span>patient saying</span></h2>
+                    <h2>what <span>patients are saying</span></h2>
                 </div>
                 <p>Discover what our valued patients have to say about their experiences at {{ env('APP_NAME') }} </p>
             </div>

@@ -35,7 +35,7 @@
                             <div class="info-box">
                                 <div class="icon-box"><span class="fa fa-clock-o"></span></div>
                                 <h5>Mon - Sat: 9am to 6pm</h5>
-                                <div class="text">Sunday Holiday</div>
+                                <div class="text">Sunday 2pm - 6pm</div>
                             </div>
                         </div>
                         <ul class="social-icon-one">

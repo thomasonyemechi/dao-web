@@ -94,7 +94,7 @@
                 <div class="col-md-6 col-sm-12 col-xs-12 appointment-colmun">
                     <div class="appointment-content">
                         <div class="title">Request An Appointment</div>
-                        <h2>We Offers Care, Attention &
+                        <h2>We Offer Care, Attention &
                             Treatment You Deserve</h2>
                         <div class="text">
                             <p class="mb-0">
@@ -105,7 +105,7 @@
                                 reflects the quality of our commitment. Welcome to a dental experience where you are truly
                                 valued.
                             </p>
-                            <h3>Call us: {{ env('PHONE_1') }} </h3>
+                            <h3>Call us: {{ env('PHONE_1') }}, {{ env('PHONE_2') }} </h3>
                         </div>
                     </div>
                 </div>
@@ -156,27 +156,9 @@
                         </div>
                         <div class="text">
                             <p>we take pride in our commitment to excellence and continuous improvement. Our achievements
-                                reflect our dedication to providing the highest quality dental care to our valued patients.
-                                Here are some of our notable accomplishments</p>
+                                reflect our dedication to providing the highest quality dental care to our valued patients.</p>
                         </div>
-                        <div class="award-area centered">
-                            <div class="single-item">
-                                <figure><img src="assets/images/about/award1.png" alt=""></figure>
-                                <div class="text">excellence award <br> year 2019</div>
-                            </div>
-                            <div class="single-item">
-                                <figure><img src="assets/images/about/award2.png" alt=""></figure>
-                                <div class="text">best dental clinic <br> award</div>
-                            </div>
-                            <div class="single-item">
-                                <figure><img src="assets/images/about/award3.png" alt=""></figure>
-                                <div class="text">best dental services <br> year 2019</div>
-                            </div>
-                            <div class="single-item">
-                                <figure><img src="assets/images/about/award4.png" alt=""></figure>
-                                <div class="text">clean dentistry award <br> year 2019</div>
-                            </div>
-                        </div>
+           
                     </div>
                 </div>
             </div>

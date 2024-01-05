@@ -20,7 +20,7 @@
                                 <p> {{ env('APP_ADDRESS') }} </p>
                             </li>
                             <li><i class="fa fa-phone"></i>
-                                <p>Call Free: <span>{{ env('PHONE_1') }}</span></p>
+                                <p>Call Free: <span>{{ env('PHONE_1') }}, {{ env('PHONE_2') }}</span></p>
                             </li>
                             <li><i class="fa fa-envelope"></i>
                                 <p> <a href="mail:{{ env('EMAIL') }}">{{ env('EMAIL') }}</a> </p>

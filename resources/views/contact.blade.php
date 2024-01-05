@@ -46,7 +46,7 @@
                             </div>
                             <div class="single-item">
                                 <div class="icon-box"><i class="fa fa-envelope"></i></div>
-                                <p>support@dao-dentals.com</p>
+                                <p>{{ env('EMAIL') }}</p>
                             </div>
                         </div>
                     </div>
@@ -56,17 +56,19 @@
                     <div class="opening-hours">
                         <div class="title">Opening Hours</div>
                         <div class="shediul">
-                            <div class="single-day">Monday<p>9.00 am - 5.00 pm</p>
+                            <div class="single-day">Monday<p>8.00 am - 6.00 pm</p>
                             </div>
-                            <div class="single-day">Tuesday<p>9.00 am - 5.00 pm</p>
+                            <div class="single-day">Tuesday<p>8.00 am - 6.00 pm</p>
                             </div>
-                            <div class="single-day">Wednesday<p>9.00 am - 5.00 pm</p>
+                            <div class="single-day">Wednesday<p>8.00 am - 6.00 pm</p>
                             </div>
-                            <div class="single-day">Thursday<p>9.00 am - 6.00 pm</p>
+                            <div class="single-day">Thursday<p>8.00 am - 6.00 pm</p>
                             </div>
-                            <div class="single-day">Friday<p>9.00 am - 3.00 pm</p>
+                            <div class="single-day">Friday<p>8.00 am - 6.00 pm</p>
                             </div>
-                            <div class="single-day">Saturday<p>9.00 am - 2.00 pm</p>
+                            <div class="single-day">Saturday<p>8.00 am - 6.00 pm</p>
+                            </div>
+                                  <div class="single-day">Sunday<p>2.00 pm - 6.00 pm</p>
                             </div>
                         </div>
                         <div class="text">We are open on all calender &amp; bank holidays.</div>

@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -29,3 +30,7 @@ Route::get('/services', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+
+Route::get('/blog', [Controller::class, 'blogIndex']);
+Route::get('/blog/{slug}', [Controller::class, 'blogSingleIndex']);
