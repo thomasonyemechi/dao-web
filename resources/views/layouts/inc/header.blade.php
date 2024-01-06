@@ -39,7 +39,8 @@
                             </div>
                         </div>
                         <ul class="social-icon-one">
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="https://www.facebook.com/dipo.durojaiye"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.instagram.com/dao_dentalclinic?igsh=ZWQ3ODFjY2VlOQ=="><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
